@@ -27,6 +27,9 @@ NumPy
 Matplotlib
 Seaborn
 Datetime
+import pandas as pd
+Example of workflow
+
 Results
 The analysis includes:
 Sales trends visualization
